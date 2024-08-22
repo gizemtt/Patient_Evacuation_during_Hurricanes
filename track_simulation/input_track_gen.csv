@@ -1,0 +1,9 @@
+parameter,value
+track_input_type,nwm
+reference,bf_landfall
+numSegment,5
+numSample,5
+numQuantile,5
+nwm_track_file_name,2017082400_nwm_med_range_storm_center.csv
+nwm_track_file_location,/Users/kyoung/Box Sync/github/data/nwm/storm_center/
+output_location,/Users/kyoung/Box Sync/github/pelo/track_simulation/output/

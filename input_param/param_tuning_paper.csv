@@ -1,0 +1,4 @@
+parameter,value,
+mipgap,0.001,
+TimeLimit,6,hrs
+threads,0,
